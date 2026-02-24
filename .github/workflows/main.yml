@@ -20,4 +20,4 @@ jobs:
         
     - name: Run Python Script
       run: |
-        python NETFLIX_CONTENT_TRENDS_AND_STATISTICAL_ANALYSIS.py
+        python netflix_content_analysis.py
